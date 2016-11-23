@@ -1,23 +1,23 @@
 <?php
 //Crest application
 $CLIENTID = "7d1aaefd9e8d41b1b3c43c5ddd212990";
-$SECRETKEY = "avtoagkatMwNjbcKFVNoIdifyxIO6sUzBAR7Lvv8";
+$SECRETKEY = "sec";
 $CALLBACKURL = "https://www.warcontacts.tk/untitled/eve.php";
 
 //Discord
 $DISCORD_CALLBACKURL = "https://www.warcontacts.tk/untitled/discord.php";
 $DISCORD_CLIENTID = "199531243900108801";
-$DISCORD_SECRETKEY = "w_tg-SsB11D56UYkIuKTsvm4sMNFYNfS";
+$DISCORD_SECRETKEY = "sec";
 
 $DISCORD_INVITE = "sZQQ9Xv";
 
 //Discord Bot
-$BOT_TOKEN = "MTk5OTQ5MTA5Mjc1MjYyOTc2.Cl2Ing.SXsrd6Z9uLc3uftGxd3gz07ZVUY";
+$BOT_TOKEN = "token";
 
 //SQL server
 $DATABASE = "eve_auth";
-$USER = "root";
-$PASSWORD = "root";
+$USER = "bla";
+$PASSWORD = "blub";
 
 //Session
 $SESSION_TIMEOUT = 100000000;
