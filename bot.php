@@ -56,3 +56,4 @@ foreach ($response as $user) {
 }
 
 clearMemberlist($server);
+
